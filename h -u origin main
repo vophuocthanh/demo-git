@@ -1,0 +1,13 @@
+[1mdiff --git a/new.html b/new.html[m
+[1mindex 6bb86d5..9160f20 100644[m
+[1m--- a/new.html[m
+[1m+++ b/new.html[m
+[36m@@ -4,7 +4,7 @@[m
+     <meta charset="UTF-8" />[m
+     <meta http-equiv="X-UA-Compatible" content="IE=edge" />[m
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />[m
+[31m-    <title>Document</title>[m
+[32m+[m[32m    <title>Document 123213123</title>[m
+   </head>[m
+   <body>[m
+     <h1>News</h1>[m
